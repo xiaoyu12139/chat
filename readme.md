@@ -96,6 +96,8 @@ epoll 模式：一个线程（或少量线程）同时管理成千上万 socke
 
 **注意：** 服务端与客户端的可执行文件目录下，需要有一个image文件夹，否则可能会不显示图片到界面上。如果是在qtcreator中直接run的，那么在工作目录下需要有个image文件夹。
 
+![](https://github.com/xiaoyu12139/chat/blob/master/image/chat_show.gif)
+
 
 
 
